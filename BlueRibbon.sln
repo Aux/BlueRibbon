@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31423.177
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueRibbon", "src\BlueRibbon\BlueRibbon.csproj", "{766EEEFF-EFC5-4EE7-B5E3-AE679336E8EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueRibbon.Core", "src\BlueRibbon.Core\BlueRibbon.Core.csproj", "{F5C80671-024C-4E1C-A2A1-0738658FB596}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{766EEEFF-EFC5-4EE7-B5E3-AE679336E8EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{766EEEFF-EFC5-4EE7-B5E3-AE679336E8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{766EEEFF-EFC5-4EE7-B5E3-AE679336E8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{766EEEFF-EFC5-4EE7-B5E3-AE679336E8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5C80671-024C-4E1C-A2A1-0738658FB596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5C80671-024C-4E1C-A2A1-0738658FB596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5C80671-024C-4E1C-A2A1-0738658FB596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5C80671-024C-4E1C-A2A1-0738658FB596}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE9C0B1A-DF38-4B71-8920-D6E8F1BA905E}
+	EndGlobalSection
+EndGlobal
